@@ -30,7 +30,7 @@ Mirador.viewer({
       info: true,
       attribution: true,
       canvas: true,
-      annotations: false,
+      annotations: true,
       search: true,
       layers: false,
     },
@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/manifest",
+      "loadedManifest": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json",
       "canvasIndex": 0,
       sideBarOpen: false,
       view:'single',

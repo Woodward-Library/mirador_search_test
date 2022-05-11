@@ -1,5 +1,5 @@
 {
-"@context": "http://iiif.io/api/search/1/context.json",
+"@context": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/search.json?q=",
 "@id": "",
 "@type": "sc:AnnotationList",
 "within": {

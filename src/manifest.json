@@ -1,1 +1,109 @@
-{"label":"[Letter from Lyle Creelman to her mother]","viewingDirection":"left-to-right","viewingHint":"paged","metadata":{"0":{"label":"AggregatedSourceRepository","value":"CONTENTdm","attrs":{"lang":"en","ns":"http:\/\/www.europeana.eu\/schemas\/edm\/dataProvider","classmap":"ore:Aggregation","property":"edm:dataProvider"},"iri":"http:\/\/www.europeana.eu\/schemas\/edm\/dataProvider","explain":"A Europeana Data Model Property; The name or identifier of the organization who contributes data indirectly to an aggregation service (e.g. Europeana)"},"1":{"label":"CatalogueRecord","value":"http:\/\/www.library.ubc.ca\/archives\/u_arch\/creelman.pdf","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/isReferencedBy","classmap":"edm:ProvidedCHO","property":"dcterms:isReferencedBy"},"iri":"http:\/\/purl.org\/dc\/terms\/isReferencedBy","explain":"A Dublin Core Terms Property; A related resource that references, cites, or otherwise points to the described resource."},"2":{"label":"Collection","value":"History of Nursing in Pacific Canada","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/isPartOf","classmap":"dpla:SourceResource","property":"dcterms:isPartOf"},"iri":"http:\/\/purl.org\/dc\/terms\/isPartOf","explain":"A Dublin Core Terms Property; A related resource in which the described resource is physically or logically included."},"3":{"label":"Creator","value":"Creelman, Lyle, 1908-2007","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/creator","classmap":"dpla:SourceResource","property":"dcterms:creator"},"iri":"http:\/\/purl.org\/dc\/terms\/creator","explain":"A Dublin Core Terms Property; An entity primarily responsible for making the resource.; Examples of a Contributor include a person, an organization, or a service."},"4":{"label":"DateAvailable","value":"2015-03-17","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/issued","classmap":"edm:WebResource","property":"dcterms:issued"},"iri":"http:\/\/purl.org\/dc\/terms\/issued","explain":"A Dublin Core Terms Property; Date of formal issuance (e.g., publication) of the resource."},"5":{"label":"DateCreated","value":"1958-01-19","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/created","classmap":"oc:SourceResource","property":"dcterms:created"},"iri":"http:\/\/purl.org\/dc\/terms\/created","explain":"A Dublin Core Terms Property; Date of creation of the resource."},"6":{"label":"DigitalResourceOriginalRecord","value":"https:\/\/open.library.ubc.ca\/collections\/creelman\/items\/1.0383264\/source.json","attrs":{"lang":"en","ns":"http:\/\/www.europeana.eu\/schemas\/edm\/aggregatedCHO","classmap":"ore:Aggregation","property":"edm:aggregatedCHO"},"iri":"http:\/\/www.europeana.eu\/schemas\/edm\/aggregatedCHO","explain":"A Europeana Data Model Property; The identifier of the source object, e.g. the Mona Lisa itself. This could be a full linked open date URI or an internal identifier"},"7":{"label":"Extent","value":"2 pages : handwritten","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/extent","classmap":"dpla:SourceResource","property":"dcterms:extent"},"iri":"http:\/\/purl.org\/dc\/terms\/extent","explain":"A Dublin Core Terms Property; The size or duration of the resource."},"8":{"label":"FileFormat","value":"application\/pdf","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/elements\/1.1\/format","classmap":"edm:WebResource","property":"dc:format"},"iri":"http:\/\/purl.org\/dc\/elements\/1.1\/format","explain":"A Dublin Core Elements Property; The file format, physical medium, or dimensions of the resource.; Examples of dimensions include size and duration. Recommended best practice is to use a controlled vocabulary such as the list of Internet Media Types [MIME]."},"10":{"label":"Genre","value":"Correspondence","attrs":{"lang":"en","ns":"http:\/\/www.europeana.eu\/schemas\/edm\/hasType","classmap":"dpla:SourceResource","property":"edm:hasType"},"iri":"http:\/\/www.europeana.eu\/schemas\/edm\/hasType","explain":"A Europeana Data Model Property; This property relates a resource with the concepts it belongs to in a suitable type system such as MIME or any thesaurus that captures categories of objects in a given field. It does NOT capture aboutness"},"11":{"label":"Identifier","value":"ARC-Creelman-3-4","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/identifier","classmap":"dpla:SourceResource","property":"dcterms:identifier"},"iri":"http:\/\/purl.org\/dc\/terms\/identifier","explain":"A Dublin Core Terms Property; An unambiguous reference to the resource within a given context.; Recommended best practice is to identify the resource by means of a string conforming to a formal identification system."},"12":{"label":"IsShownAt","value":"10.14288\/1.0383264","attrs":{"lang":"en","ns":"http:\/\/www.europeana.eu\/schemas\/edm\/isShownAt","classmap":"edm:WebResource","property":"edm:isShownAt"},"iri":"http:\/\/www.europeana.eu\/schemas\/edm\/isShownAt","explain":"A Europeana Data Model Property; An unambiguous URL reference to the digital object on the provider\u2019s website in its full information context."},"13":{"label":"Language","value":"English","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/language","classmap":"dpla:SourceResource","property":"dcterms:language"},"iri":"http:\/\/purl.org\/dc\/terms\/language","explain":"A Dublin Core Terms Property; A language of the resource.; Recommended best practice is to use a controlled vocabulary such as RFC 4646 [RFC4646]."},"14":{"label":"Provider","value":"Vancouver : University of British Columbia Library","attrs":{"lang":"en","ns":"http:\/\/www.europeana.eu\/schemas\/edm\/provider","classmap":"ore:Aggregation","property":"edm:provider"},"iri":"http:\/\/www.europeana.eu\/schemas\/edm\/provider","explain":"A Europeana Data Model Property; The name or identifier of the organization who delivers data directly to an aggregation service (e.g. Europeana)"},"15":{"label":"Rights","value":"Digital copies are provided for research and personal use only. For permission to publish or otherwise use this material contact the UBC Archives at lib-ubcarchives@lists.ubc.ca","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/rights","classmap":"edm:WebResource","property":"dcterms:rights"},"iri":"http:\/\/purl.org\/dc\/terms\/rights","explain":"A Dublin Core Terms Property; Information about rights held in and over the resource.; Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights."},"16":{"label":"SortDate","value":"1958-01-19 AD","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/elements\/1.1\/date","classmap":"dpla:SourceResource"},"iri":"http:\/\/purl.org\/dc\/elements\/1.1\/date","explain":"A Dublin Core Elements Property; A point or period of time associated with an event in the lifecycle of the resource.; Date may be used to express temporal information at any level of granularity. Recommended best practice is to use an encoding scheme, such as the W3CDTF profile of ISO 8601 [W3CDTF]."},"17":{"label":"Source","value":"Original format: University of British Columbia. Archives. Lyle Creelman fonds. Correspondence. ARC-Creelman-3-4","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/source","classmap":"oc:SourceResource","property":"dcterms:source"},"iri":"http:\/\/purl.org\/dc\/terms\/source","explain":"A Dublin Core Terms Property; A related resource from which the described resource is derived.; The described resource may be derived from the related resource in whole or in part. Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system."},"18":{"label":"Subject","value":"Nursing","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/subject","classmap":"dpla:SourceResource","property":"dcterms:subject"},"iri":"http:\/\/purl.org\/dc\/terms\/subject","explain":"A Dublin Core Terms Property; The topic of the resource.; Typically, the subject will be represented using keywords, key phrases, or classification codes. Recommended best practice is to use a controlled vocabulary."},"19":{"label":"Title","value":"[Letter from Lyle Creelman to her mother]","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/title","classmap":"dpla:SourceResource","property":"dcterms:title"},"iri":"http:\/\/purl.org\/dc\/terms\/title","explain":"A Dublin Core Terms Property; The name given to the resource."},"20":{"label":"Type","value":"Text","attrs":{"lang":"en","ns":"http:\/\/purl.org\/dc\/terms\/type","classmap":"dpla:SourceResource","property":"dcterms:type"},"iri":"http:\/\/purl.org\/dc\/terms\/type","explain":"A Dublin Core Terms Property; The nature or genre of the resource.; Recommended best practice is to use a controlled vocabulary such as the DCMI Type Vocabulary [DCMITYPE]. To describe the file format, physical medium, or dimensions of the resource, use the Format element."},"21":{"property":"Translation","language":"en","label":"Translation","value":""}},"thumbnail":"https:\/\/iiif.library.ubc.ca\/image\/cdm.creelman.1-0383264.0000\/full\/80,100\/0\/default.jpg","attribution":"Digital copies are provided for research and personal use only. For permission to publish or otherwise use this material contact the UBC Archives at lib-ubcarchives@lists.ubc.ca","sequences":[{"@id":"https:\/\/iiif.library.ubc.ca\/presentation\/cdm.creelman.1-0383264\/sequence\/normal","@type":"sc:Sequence","label":"Default","viewingDirection":"left-to-right","viewingHint":"paged","canvases":[{"@id":"https:\/\/iiif.library.ubc.ca\/presentation\/cdm.creelman.1-0383264\/canvas\/p0000","@type":"sc:Canvas","label":"creelman_03_04_09_001","height":3674,"width":4373,"metadata":[{"label":"Title","value":"creelman_03_04_09_001"}],"images":[{"@id":"https:\/\/iiif.library.ubc.ca\/presentation\/cdm.creelman.1-0383264\/annotation\/p0000","@type":"oa:Annotation","motivation":"sc:painting","resource":{"@id":"https:\/\/iiif.library.ubc.ca\/image\/cdm.creelman.1-0383264.0000","@type":"dctypes:Image","format":"image\/jpeg","height":3674,"width":4373,"service":{"@context":"http:\/\/iiif.io\/api\/image\/2\/context.json","@id":"https:\/\/iiif.library.ubc.ca\/image\/cdm.creelman.1-0383264.0000","@profile":"http:\/\/iiif.io\/api\/image\/2\/level2.json","height":3674,"width":4373,"scaleFactors":[1,2,4,8,16,32,64,128,256,512,1024]}},"on":"https:\/\/iiif.library.ubc.ca\/cdm.creelman.1-0383264\/canvas\/p0000"}]},{"@id":"https:\/\/iiif.library.ubc.ca\/presentation\/cdm.creelman.1-0383264\/canvas\/p0001","@type":"sc:Canvas","label":"creelman_03_04_09_002","height":3711,"width":4357,"metadata":[{"label":"Title","value":"creelman_03_04_09_002"}],"images":[{"@id":"https:\/\/iiif.library.ubc.ca\/presentation\/cdm.creelman.1-0383264\/annotation\/p0001","@type":"oa:Annotation","motivation":"sc:painting","resource":{"@id":"https:\/\/iiif.library.ubc.ca\/image\/cdm.creelman.1-0383264.0001","@type":"dctypes:Image","format":"image\/jpeg","height":3711,"width":4357,"service":{"@context":"http:\/\/iiif.io\/api\/image\/2\/context.json","@id":"https:\/\/iiif.library.ubc.ca\/image\/cdm.creelman.1-0383264.0001","@profile":"http:\/\/iiif.io\/api\/image\/2\/level2.json","height":3711,"width":4357,"scaleFactors":[1,2,4,8,16,32,64,128,256,512,1024]}},"on":"https:\/\/iiif.library.ubc.ca\/cdm.creelman.1-0383264\/canvas\/p0001"}]}]}],"description":"[No description]","@context":"http:\/\/iiif.io\/api\/presentation\/2\/context.json","@id":"https:\/\/iiif.library.ubc.ca\/presentation\/cdm.creelman.1-0383264\/manifest","@type":"sc:Manifest"}
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://83a99c0e-371b-4bc3-829e-1e2bf23b15c2",
+	"@type": "sc:Manifest",
+	"label": "This is the Manifest label - lets call it Letter from Lyle Creelman",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Description: a letter from Lyle Creedman to her mother",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"service": {
+		"@context": "http://iiif.io/api/search/1/context.json",
+		"@id": "http://example.org/services/identifier/search",
+		"profile": "http://iiif.io/api/search/1/search"
+	},
+	
+	"sequences": [
+		{
+			"@id": "http://3a85151c-6ff0-4799-9521-ec55a45749f1",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://8d2a67f7-eb04-4494-a524-58cd6c692ad7",
+					"@type": "sc:Canvas",
+					"label": "Letter from Lyle Creelman to her mother",
+					"height": 3674,
+					"width": 4373,
+					"otherContent":[
+						{
+							"@id": "https://gist.githubusercontent.com/wdrefubc/651aa6b17e2f3231d38132cc51b97984/raw/7e01c4ebce357069592d191f8e16b112f8425d92/annotation",
+							"@type": "sc:AnnotationList",
+              "label": "My fantastic annotations"
+						}
+					],
+		
+
+					
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d16ad15a-88bd-4598-9fcb-15c4a0a7e846",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.ubc.ca/image/cdm.creelman.1-0383264.0000/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.ubc.ca/image/cdm.creelman.1-0383264.0000",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationArbitrary",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 3674,
+								"width": 4373
+							},
+							"on": "http://8d2a67f7-eb04-4494-a524-58cd6c692ad7"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://8d2a67f7-eb04-4494-a524-58cd6c692ad7"
+	}
+}

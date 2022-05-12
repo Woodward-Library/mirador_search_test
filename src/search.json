@@ -1,5 +1,5 @@
 {
-"@context": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/search.json?motivation=commenting&q=",
+"@context": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/annotation.json?motivation=commenting&q=",
 "@id": "",
 "@type": "sc:AnnotationList",
 "within": {

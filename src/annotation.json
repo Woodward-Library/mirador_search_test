@@ -133,6 +133,6 @@
       "full" : "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/canvas/p0000"
     } ]
   } ],
-  "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/109575698272495028480/4d0e0ce87602e9d4d4392d7794309123.json",
+  "@id" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/annotation.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }

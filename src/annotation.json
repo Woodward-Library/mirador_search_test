@@ -64,7 +64,7 @@
         },
         "@type" : "oa:Choice"
       },
-      "full" : "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/canvas/p0000"
+      "full" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
     } ]
   }, {
     "resource" : [ {
@@ -97,7 +97,7 @@
         },
         "@type" : "oa:Choice"
       },
-      "full" : "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/canvas/p0000"
+      "full" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
     } ]
   }, {
     "resource" : [ {
@@ -130,7 +130,7 @@
         },
         "@type" : "oa:Choice"
       },
-      "full" : "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/canvas/p0000"
+      "full" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
     } ]
   } ],
   "@id" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/annotation.json",

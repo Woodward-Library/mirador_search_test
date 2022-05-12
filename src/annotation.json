@@ -31,7 +31,7 @@
         },
         "@type" : "oa:Choice"
       },
-      "full" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest2.json/canvas1"
+      "full" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
     } ]
   }, {
     "resource" : [ {

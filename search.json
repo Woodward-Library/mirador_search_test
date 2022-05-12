@@ -1,0 +1,12 @@
+{
+"@context": "http://iiif.io/api/search/1/context.json",
+"@id": "",
+"@type": "sc:AnnotationList",
+"within": {
+"@type": "sc:Layer",
+"total": 0
+},
+"startIndex": 0,
+"resources": [],
+"hits": []
+}

@@ -37,7 +37,7 @@
 					"width": 4373,
 					"otherContent":[
 						{
-							"@id": "https://gist.githubusercontent.com/wdrefubc/651aa6b17e2f3231d38132cc51b97984/raw/7e01c4ebce357069592d191f8e16b112f8425d92/annotation",
+							"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/annotation.json",
 							"@type": "sc:AnnotationList",
               "label": "My fantastic annotations"
 						}

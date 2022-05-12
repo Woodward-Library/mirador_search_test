@@ -1,6 +1,6 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://83a99c0e-371b-4bc3-829e-1e2bf23b15c2",
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "This is the Manifest label - lets call it Letter from Lyle Creelman",
 	"metadata": [],
@@ -30,7 +30,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://8d2a67f7-eb04-4494-a524-58cd6c692ad7",
+					"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1",
 					"@type": "sc:Canvas",
 					"label": "Letter from Lyle Creelman to her mother",
 					"height": 3674,
@@ -39,7 +39,7 @@
 						{
 							"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/annotation.json",
 							"@type": "sc:AnnotationList",
-              "label": "My fantastic annotations"
+             						 "label": "My fantastic annotations"
 						}
 					],
 		
@@ -94,7 +94,7 @@
 								"height": 3674,
 								"width": 4373
 							},
-							"on": "http://8d2a67f7-eb04-4494-a524-58cd6c692ad7"
+							"target": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
 						}
 					],
 					"related": ""

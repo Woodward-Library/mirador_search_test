@@ -17,7 +17,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/manifest"
+        "@id" : "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {

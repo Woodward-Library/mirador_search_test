@@ -7,6 +7,13 @@
       "Image 1"
     ]
   },
+
+  "service": {
+  		"@context": "http://iiif.io/api/search/1/context.json",
+  		"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/search.json",
+  		"profile": "http://iiif.io/api/search/1/search"
+  	},
+
   "items": [
     {
       "id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest2.json/canvas1",

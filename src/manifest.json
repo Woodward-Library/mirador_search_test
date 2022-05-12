@@ -14,7 +14,7 @@
 	"attribution": "[Click to edit attribution]",
 	"service": {
 		"@context": "http://iiif.io/api/search/1/context.json",
-		"@id": "https://dev.gdmrdigital.com/search-api/1240244679/109575698272495028480/6234df7cc3b213c21bfbfacf24657943/search",
+		"@id": "https://dev.gdmrdigital.com/search-api/1240244679/109575698272495028480/6234df7cc3b213c21bfbfacf24657943/search?q=",
 		"profile": "http://iiif.io/api/search/1/search"
 	},
 	

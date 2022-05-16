@@ -14,7 +14,7 @@
 	"attribution": "[Click to edit attribution]",
 	"service": {
 		"@context": "http://iiif.io/api/search/1/context.json",
-		"@id": "https://ubc-dams-test.atmire.us/server/iiif/search/canvas1",
+		"@id": "https://ocr.lib.ncsu.edu/search/canvas1",
 		"profile": "http://iiif.io/api/search/1/search"
 	},
 

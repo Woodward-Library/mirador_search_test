@@ -1,0 +1,109 @@
+{
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json",
+	"@type": "sc:Manifest",
+	"label": "This is the Manifest label - lets call it Letter from Lyle Creelman",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Description: a letter from Lyle Creedman to her mother",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"service": {
+		"@context": "http://iiif.io/api/search/1/context.json",
+		"@id": "https://ubc-dams-test.atmire.us/server/iiif/search/canvas1",
+		"profile": "http://iiif.io/api/search/1/search"
+	},
+
+	"sequences": [
+		{
+			"@id": "http://3a85151c-6ff0-4799-9521-ec55a45749f1",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1",
+					"@type": "sc:Canvas",
+					"label": "Letter from Lyle Creelman to her mother",
+					"height": 3674,
+					"width": 4373,
+					"otherContent":[
+						{
+							"@id": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/annotation.json",
+							"@type": "sc:AnnotationList",
+             						 "label": "My fantastic annotations"
+						}
+					],
+
+
+
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d16ad15a-88bd-4598-9fcb-15c4a0a7e846",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.ubc.ca/image/cdm.creelman.1-0383264.0000/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.ubc.ca/image/cdm.creelman.1-0383264.0000",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationArbitrary",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 3674,
+								"width": 4373
+							},
+							"target": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json/canvas1"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://8d2a67f7-eb04-4494-a524-58cd6c692ad7"
+	}
+}
